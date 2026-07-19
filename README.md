@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 The **Sales Report Dashboard** is an interactive Microsoft Excel dashboard developed to analyze sales performance across different regions, states, products, and time periods. It provides business users with a centralized view of key sales metrics through dynamic charts, KPI cards, and slicers, enabling quick and informed decision-making.
 
+## 📷 Dashboard Preview
+![Sales Report Dashboard](Dashboard_Overview.png)
+
 ## 🎯 Business Objective
 The objective of this dashboard is to:
 
@@ -58,9 +61,6 @@ The objective of this dashboard is to:
 | `Sales_Report.xlsx` | Interactive Excel dashboard |
 | `Dashboard_Overview.png` | Dashboard screenshot |
 | `README.md` | Project documentation |
-
-## 📷 Dashboard Preview
-![Sales Report Dashboard](Dashboard_Overview.png)
 
 ## 🎯 Skills Demonstrated
 - Data Cleaning
